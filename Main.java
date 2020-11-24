@@ -14,3 +14,5 @@ public class Main {
     lista.recorrer();
 
     }
+
+}
